@@ -96,6 +96,9 @@ public class matrixadd {
 
 ## OUTPUT:
 
+<img width="1920" height="1008" alt="Screenshot 2025-08-12 160618" src="https://github.com/user-attachments/assets/0e3cdaed-6d12-4f1b-95bc-7d412cef3414" />
+
+
 ## RESULT:
 
 Thus, the program addition of two matrices using a Java program is developed, and the output is verified. 
